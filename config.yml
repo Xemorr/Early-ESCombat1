@@ -1,0 +1,15 @@
+#How long the player hit by the rod will be on fire for.
+#(in ticks) 20 ticks = 1 second
+#80 is the default for swords in vanilla
+fireaspectticksperenchantlevel: 80
+flameticksperenchantlevel: 100
+#How much velocity your opponent will have to be pulled back to you.
+luremultiplier: 0.3
+#Max Duration of Potion Effect
+maxduration: 4
+#Min Duration of Potion Effect
+minduration: 1
+#Max Potency of Potion Effect
+maxpotency: 2
+#Min Potency of Potion Effect
+minpotency: 1
